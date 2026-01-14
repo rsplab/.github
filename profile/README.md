@@ -9,7 +9,7 @@ We are RSPLab from the School of Mechanical Enginnering and Automation at Beihan
 
 ## Lab Members
 ### PI
-Sipu Ruan (Associate Professor): Robot motion and path planning, Imitation learning, Robot collision avoidance
+[Sipu Ruan](https://shi.buaa.edu.cn/ruansp/) (Associate Professor): Robot motion and path planning, Imitation learning, Robot collision avoidance
 
 ### Students
 - Siyu Lu (PhD student, class of 2025): Multi-robot navigation
